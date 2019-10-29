@@ -23,6 +23,8 @@ org.apache.nifi.json.JsonRecordSetWriter
 org.apache.nifi.csv.CSVReader
 org.apache.nifi.csv.CSVRecordSetWriter
 
+org.apache.nifi.edn.EdnReader
+
 org.apache.nifi.grok.GrokReader
 
 org.apache.nifi.text.FreeFormTextRecordSetWriter
